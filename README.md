@@ -41,6 +41,7 @@ To secure a challenging and rewarding role in cybersecurity (especially **offens
 | Password-Cracking-Lab   | <a href="https://github.com/Cybernuel/Password-Cracking-Lab---Automating-Hashcat-and-John-the-Ripper">Automating-Hashcat-and-John-the-Ripper</a>     |
 | Armitage-Network-Attack          | <a href="https://github.com/Cybernuel/Armitage-Network-Attack-Lab---Automating-Exploits-with-Metasploit">Automating-Exploits-with-Metasploit</a> |
 | port-scanner          | <a href="https://github.com/Cybernuel/port-scanner">Automating Port-Scan</a> |
+|subhunter     | <a href="https://github.com/Cybernuel/subhunter">subdomain enumeration</a> |
 
 
 

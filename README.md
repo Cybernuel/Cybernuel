@@ -8,7 +8,7 @@
 
 🎯 **About Me**
 
-I'm Emmanuel — known in the cyber realm as **Cybernuel** — a passionate and driven cybersecurity enthusiast with a Master's degree (MSc) in Cybersecurity.  
+I'm Emmanuel,  known in the cyber realm as **Cybernuel** — a passionate and driven cybersecurity enthusiast with a Master's degree (MSc) in Cybersecurity.  
 Currently focused on **penetration testing**, offensive tooling, and building hands-on projects that simulate real-world attacks and defenses.
 
 I'm deeply committed to sharpening my skills through labs, red teaming exercises, and community-driven projects, while staying updated with the latest TTPs (Tactics, Techniques, and Procedures).

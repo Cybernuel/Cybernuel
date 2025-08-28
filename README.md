@@ -6,11 +6,17 @@
 
 ---
 
-Hi, I'm Emmanuel, known in the cyber realm as **Cybernuel**, a passionate and driven cybersecurity enthusiast with a Master’s degree (MSc) in Cybersecurity. I specialize in penetration testing, offensive tooling, and building hands-on projects simulating real-world attacks and defenses. I’m continuously sharpening my skills with labs, red teaming exercises, and community-driven projects while staying up to date with the latest TTPs (Tactics, Techniques, and Procedures).
+Hi, I’m Emmanuel Damilare Adegbite known in the cyber realm as Cybernuel; a passionate and results driven cybersecurity professional with a B.Engr in Computer Engineering and a Master’s degree (MSc) in Cybersecurity from Edinburgh Napier University.
 
-I hold multiple industry certifications, including CompTIA Security+, Cisco Junior Cybersecurity Analyst, Cisco Ethical Hacker, Qualys Certified Specialist, ArcX Cyber Threat Intelligence Analyst, ISC2 Certified in Cybersecurity (CC), and Google Cybersecurity Professional Certificate.
+My expertise lies in penetration testing, offensive security, blue/red teaming, and cloud security, where I design and execute hands on projects simulating real-world attack and defense scenarios. I thrive on building custom tools, automating security workflows with Python and Bash, and applying advanced TTPs (Tactics, Techniques, and Procedures) to stay ahead of evolving threats. I have practical experience working with Active Directory environments (domain enumeration, privilege escalation, Kerberos attacks, Group Policy hardening) and securing Microsoft Azure services, including identity and access management, threat monitoring, and cloud workload protection.
 
-I’m proficient with a broad range of cybersecurity tools such as Splunk, ELK Stack (Elasticsearch, Logstash, Kibana), Snort, VirusTotal, AlienVault OTX, Burp Suite, Metasploit, Nessus, Nmap, and Wireshark. I am passionate about offensive security and actively develop Python and Bash tools to automate and enhance security operations.
+I hold multiple globally recognised certifications, including CompTIA Security+, CompTIA CySA+, Cisco Junior Cybersecurity Analyst, Cisco Ethical Hacker, Qualys Certified Specialist, ArcX Cyber Threat Intelligence Analyst, ISC2 Certified in Cybersecurity (CC), Google Cybersecurity Professional Certificate amidst others.
+
+I am proficient with industry standard tools such as Splunk, ELK Stack (Elasticsearch, Logstash, Kibana), Snort, VirusTotal, AlienVault OTX, Burp Suite, Metasploit, Nessus, Nmap, and Wireshark, and I actively develop Python and Bash scripts to automate and enhance security operations.
+
+Beyond certifications and tools, what sets me apart is my engineering foundation and ability to bridge the gap between cybersecurity strategy, cloud security, and technical execution. I am deeply passionate about contributing to enterprise security operations, Active Directory hardening, cloud security, and red team engagements within dynamic, forward thinking organisations.
+
+I’m eager to bring my academic background, hands on technical skills, and passion for offensive and cloud security into a professional role where I can make a measurable impact while continuing to grow as part of a collaborative security team.
 
 ---
 
